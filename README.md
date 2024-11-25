@@ -14,6 +14,3 @@ Estudante de Engenharia de Software 🛠️💻<br>Apaixonado por tecnologia, de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PH-Palmito&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PH-Palmito/PH-Palmito/output/snake.svg" alt="Snake animation" />
