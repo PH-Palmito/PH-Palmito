@@ -24,4 +24,4 @@
 </p>
 ![Snake animation] (https://github.com/ph-palmito/ph-palmito/blob/output/github-contribution- grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/? username=your_username&repo=your_username&theme=react)] (https://github.com/ph-palmito/ph-palmito) 
+[![readme](https://github-readme-stats.vercel.app/api/pin/? username=ph-palmito&repo=ph-palmito&theme=react)] (https://github.com/ph-palmito/ph-palmito) 
