@@ -16,4 +16,4 @@ Estudante de Engenharia de Software 🛠️💻<br>Apaixonado por tecnologia, de
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/diogomnx/diogomnx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PH-Palmito/PH-Palmito/output/snake.svg" alt="Snake animation" />
