@@ -10,7 +10,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph-palmito&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ph-palmito" /></p>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ph-palmito&theme=dark" alt="ph-palmito" /></p>
+
 
 <h3 align="left">Idiomas e ferramentas:</h3>
 
@@ -22,6 +22,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrique-palmito/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-henrique-palmito/" height="30" width="40" /></a>  
 <a href="https://instagram.com/pedro_palmito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedro_palmito" height="30" width="40" /></a>
 </p>
-![Snake animation] (https://github.com/ph-palmito/ph-palmito/blob/output/github-contribution- grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/? username=ph-palmito&repo=ph-palmito&theme=react)] (https://github.com/ph-palmito/ph-palmito) 
