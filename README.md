@@ -1,6 +1,6 @@
 # 💫 About Me:
 Estudante de Engenharia de Software 🛠️💻<br>Apaixonado por tecnologia, design e inovação 🌐✨<br>Explorando o mundo do desenvolvimento web e design gráfico 🎨<br>Aprendendo e experimentando novas ferramentas e linguagens de programação 🔍👾<br>Adoro resolver problemas e criar soluções eficientes 💡
-
+![giphy](https://github.com/user-attachments/assets/c5086f0e-fe99-42f7-a502-bc9a9dae582d)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/seven2171) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_palmito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrique-palmito/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PedroHe05922335) 
