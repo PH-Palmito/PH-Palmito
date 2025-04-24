@@ -17,4 +17,11 @@ Estudante de Engenharia de Software 🛠️💻<br>Apaixonado por tecnologia, de
 ---
 [![](https://visitcount.itsvg.in/api?id=ph-palmito&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ph-palmito/ph-palmito/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ph-palmito/ph-palmito/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ph-palmito/ph-palmito/output/pacman-contribution-graph.svg">
+</picture>
+
