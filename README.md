@@ -15,7 +15,7 @@ Estudante de Engenharia de Software 🛠️💻<br>Apaixonado por tecnologia, de
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ph-palmito&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ph-palmito&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 
 
