@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Engenharia de Software 🛠️💻<br>Apaixonado por tecnologia, design e inovação 🌐✨<br>Explorando o mundo do desenvolvimento web e design gráfico 🎨<br>Aprendendo e experimentando novas ferramentas e linguagens de programação 🔍👾<br>Adoro resolver problemas e criar soluções eficientes 💡
+Estudante de Engenharia de Software 🛠️💻<br>Apaixonado por tecnologia, design e inovação 🌐✨<br>Explorando o mundo do desenvolvimento web e design gráfico 🎨<br>Aprendendo e experimentando novas ferramentas e linguagens de programação 🔍👾<br>Gosto de resolver problemas e criar soluções eficientes 💡
 
 
 
